@@ -1,13 +1,12 @@
 # active-directory-b2c-dontet-webapp-webapi-4.6.1
- 
-page_type	description	languages	products
+
 sample
 The sample covers calling an OpenID Connect identity provider (Azure AD B2C) and acquiring a token from Azure AD B2C using MSAL.
-csharp
+
 dotnet
 azure
 azure-active-directory
-Azure AD B2C: Call an ASP.NET Web API from an ASP.NET Web App
+**#Azure AD B2C: Call an ASP.NET Web API from an ASP.NET Web App**
 This sample contains a solution file that contains two projects: TaskWebApp and TaskService.
 
 TaskWebApp is a "To-do" ASP.NET MVC web application where the users enters or updates their to-do items. These CRUD operations are performed by a backend web API. The web app displays the information returned from the ASP.NET Web API.
